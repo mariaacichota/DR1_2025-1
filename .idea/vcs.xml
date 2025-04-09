@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DR1_AT/TheAlgorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DR1_AT/ViaCepApi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DR1_TP3" vcs="Git" />
   </component>
 </project>
